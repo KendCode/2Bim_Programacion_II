@@ -1,0 +1,12 @@
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe.config
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.pdb
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.pdb
+C:\Users\ASUS\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.exe
+C:\Users\ASUS\Desktop\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe.config
+C:\Users\ASUS\Desktop\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe
+C:\Users\ASUS\Desktop\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.pdb
+C:\Users\ASUS\Desktop\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.pdb
